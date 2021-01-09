@@ -1,0 +1,28 @@
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color .3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  background: #002140;
+}
+
+.logo h1{
+  color:#fff;
+  line-height: 64px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}
